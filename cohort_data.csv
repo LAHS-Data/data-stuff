@@ -1,0 +1,555 @@
+Student #,Period 1,Period 2,Period 3,Period 4,Period 5
+0,English,P.E.,World History,Biology,Algebra 2H
+1,Geometry 9,Biology,English,P.E.,World History
+2,Geometry 9,World History,Biology H,English,P.E.
+3,Algebra 2H,World History,English,Biology,P.E.
+4,Geometry H,World History,P.E.,Biology,English
+5,English,World History,P.E.,Biology H,Algebra 2
+6,Biology,P.E.,World History,English,Algebra 2
+7,World History,English,P.E.,Algebra 2H,Biology
+8,Algebra 2,P.E.,World History,English,Biology H
+9,World History,English,P.E.,Biology,Geometry 9
+10,World History,Algebra 2H,English,P.E.,Biology
+11,Algebra 2,World History,Biology H,P.E.,English
+12,English,P.E.,Geometry H,World History,Biology H
+13,P.E.,Algebra 2H,Biology,English,World History
+14,English,P.E.,Biology H,Algebra 2H,World History
+15,Biology H,P.E.,Geometry H,English,World History
+16,Algebra 2H,P.E.,World History,English,Biology
+17,Geometry 9,Biology,English,World History,P.E.
+18,P.E.,Algebra 2H,World History,Biology H,English
+19,Biology,World History,English,P.E.,Algebra 2H
+20,World History,P.E.,English,Geometry H,Biology
+21,Biology,Algebra 2,P.E.,World History,English
+22,Geometry H,Biology H,English,P.E.,World History
+23,World History,P.E.,English,Algebra 2,Biology H
+24,Biology,P.E.,World History,Algebra 2H,English
+25,Algebra 2H,P.E.,World History,English,Biology
+26,English,Algebra 2H,Biology,P.E.,World History
+27,P.E.,Biology,World History,Algebra 2,English
+28,Biology H,Algebra 2,World History,English,P.E.
+29,Biology H,English,P.E.,World History,Algebra 2
+30,Biology H,Geometry 9,English,P.E.,World History
+31,Biology,Geometry H,World History,P.E.,English
+32,Biology,World History,Geometry H,English,P.E.
+33,P.E.,Biology,World History,Algebra 2,English
+34,Algebra 2H,World History,Biology,P.E.,English
+35,Biology H,P.E.,Algebra 2,World History,English
+36,Geometry 9,P.E.,Biology,English,World History
+37,English,World History,Biology H,P.E.,Algebra 2H
+38,Algebra 2,Biology,World History,English,P.E.
+39,P.E.,Geometry 9,Biology H,World History,English
+40,Geometry H,Biology H,English,P.E.,World History
+41,P.E.,Biology,World History,English,Algebra 2
+42,Geometry H,English,Biology,P.E.,World History
+43,P.E.,World History,English,Algebra 2H,Biology H
+44,English,P.E.,Biology,Geometry H,World History
+45,P.E.,Biology H,World History,English,Geometry 9
+46,English,World History,Biology H,P.E.,Geometry H
+47,Biology,P.E.,English,Algebra 2H,World History
+48,World History,Biology H,P.E.,English,Algebra 2H
+49,Geometry 9,English,World History,P.E.,Biology
+50,Biology,English,Geometry H,P.E.,World History
+51,P.E.,World History,Biology H,English,Geometry 9
+52,P.E.,Algebra 2,World History,Biology,English
+53,Algebra 2,English,P.E.,World History,Biology H
+54,Biology,Geometry H,P.E.,World History,English
+55,English,Geometry H,World History,P.E.,Biology H
+56,World History,P.E.,English,Geometry 9,Biology
+57,English,P.E.,Algebra 2,World History,Biology H
+58,Algebra 2H,P.E.,English,Biology,World History
+59,P.E.,Biology H,English,World History,Geometry 9
+60,English,Geometry 9,World History,P.E.,Biology H
+61,Biology H,World History,English,Geometry H,P.E.
+62,World History,P.E.,Biology,Algebra 2,English
+63,Biology,Geometry 9,P.E.,World History,English
+64,Biology H,World History,Algebra 2,English,P.E.
+65,P.E.,Biology H,Algebra 2,World History,English
+66,English,Geometry 9,P.E.,World History,Biology
+67,Geometry 9,English,P.E.,Biology,World History
+68,Biology H,Algebra 2H,English,World History,P.E.
+69,English,P.E.,World History,Algebra 2,Biology
+70,P.E.,English,Biology,Geometry 9,World History
+71,English,World History,Biology,P.E.,Geometry 9
+72,English,World History,P.E.,Geometry H,Biology
+73,World History,English,P.E.,Geometry 9,Biology
+74,Algebra 2,English,P.E.,Biology H,World History
+75,English,P.E.,Geometry 9,Biology,World History
+76,World History,Biology H,Algebra 2,P.E.,English
+77,World History,Geometry 9,Biology H,P.E.,English
+78,P.E.,English,Biology H,Algebra 2H,World History
+79,World History,Algebra 2H,Biology,English,P.E.
+80,World History,English,P.E.,Biology H,Geometry 9
+81,World History,P.E.,English,Algebra 2H,Biology H
+82,Biology,English,World History,P.E.,Algebra 2H
+83,Geometry H,English,World History,P.E.,Biology H
+84,P.E.,World History,Algebra 2H,Biology H,English
+85,English,P.E.,Geometry H,Biology H,World History
+86,English,Biology H,World History,P.E.,Geometry 9
+87,English,P.E.,Biology,World History,Algebra 2H
+88,Algebra 2,Biology,World History,English,P.E.
+89,English,Biology,Algebra 2,World History,P.E.
+90,World History,Algebra 2,P.E.,Biology H,English
+91,World History,Biology H,Geometry 9,P.E.,English
+92,Biology H,World History,Algebra 2,English,P.E.
+93,English,World History,P.E.,Biology H,Algebra 2
+94,Biology H,World History,English,P.E.,Geometry 9
+95,P.E.,World History,English,Geometry H,Biology
+96,World History,Biology,English,P.E.,Algebra 2
+97,World History,English,Biology,Algebra 2,P.E.
+98,P.E.,Geometry 9,English,World History,Biology H
+99,P.E.,English,Algebra 2H,World History,Biology H
+100,Algebra 2H,Biology H,P.E.,World History,English
+101,P.E.,World History,English,Biology H,Algebra 2H
+102,Biology,World History,Algebra 2,English,P.E.
+103,Biology,Algebra 2H,World History,English,P.E.
+104,P.E.,World History,Geometry H,Biology,English
+105,English,Algebra 2H,World History,P.E.,Biology H
+106,English,P.E.,Algebra 2H,World History,Biology H
+107,Geometry H,English,World History,P.E.,Biology
+108,Biology,English,Algebra 2H,P.E.,World History
+109,English,World History,P.E.,Geometry H,Biology H
+110,Biology H,World History,Geometry 9,English,P.E.
+111,World History,P.E.,Biology H,English,Geometry H
+112,English,Algebra 2H,World History,P.E.,Biology H
+113,Algebra 2,P.E.,World History,English,Biology
+114,P.E.,Algebra 2H,Biology H,World History,English
+115,Biology H,World History,P.E.,English,Algebra 2H
+116,English,Algebra 2H,P.E.,World History,Biology H
+117,Algebra 2H,World History,English,Biology H,P.E.
+118,Biology H,P.E.,Geometry H,World History,English
+119,World History,English,P.E.,Geometry H,Biology H
+120,World History,P.E.,Biology H,Geometry H,English
+121,English,P.E.,Biology,World History,Algebra 2
+122,P.E.,English,Biology H,World History,Algebra 2
+123,World History,Biology H,P.E.,English,Algebra 2H
+124,World History,English,Biology,Algebra 2H,P.E.
+125,Biology H,World History,English,P.E.,Algebra 2H
+126,Biology H,World History,P.E.,Algebra 2,English
+127,World History,P.E.,Geometry H,English,Biology H
+128,P.E.,Biology H,Geometry H,English,World History
+129,English,World History,P.E.,Biology,Geometry H
+130,P.E.,Biology H,World History,English,Algebra 2H
+131,English,Algebra 2,World History,P.E.,Biology H
+132,English,Biology,P.E.,Algebra 2,World History
+133,World History,P.E.,Biology,Geometry 9,English
+134,P.E.,World History,Biology H,English,Geometry H
+135,World History,P.E.,English,Biology H,Algebra 2
+136,Algebra 2,P.E.,Biology H,English,World History
+137,Biology H,Algebra 2H,World History,English,P.E.
+138,Geometry H,World History,English,P.E.,Biology
+139,World History,Biology H,English,P.E.,Algebra 2
+140,P.E.,Biology,World History,English,Algebra 2
+141,Algebra 2,Biology,English,P.E.,World History
+142,World History,Biology H,English,Algebra 2H,P.E.
+143,Biology H,World History,P.E.,English,Algebra 2H
+144,Biology H,World History,English,P.E.,Algebra 2
+145,Biology,World History,Algebra 2H,English,P.E.
+146,World History,Biology H,P.E.,Algebra 2,English
+147,P.E.,English,Geometry 9,Biology,World History
+148,Geometry 9,P.E.,Biology,World History,English
+149,P.E.,World History,Biology H,English,Algebra 2
+150,World History,Biology,P.E.,Algebra 2,English
+151,P.E.,English,Biology H,Geometry 9,World History
+152,Biology,P.E.,Geometry 9,World History,English
+153,Biology H,P.E.,World History,English,Algebra 2H
+154,P.E.,Algebra 2,English,World History,Biology
+155,World History,Biology,English,Algebra 2,P.E.
+156,Biology H,Geometry 9,English,P.E.,World History
+157,P.E.,World History,Algebra 2,Biology,English
+158,English,Biology H,Algebra 2H,P.E.,World History
+159,Biology H,Algebra 2H,P.E.,World History,English
+160,P.E.,Geometry H,Biology,English,World History
+161,Biology H,World History,Geometry 9,English,P.E.
+162,World History,P.E.,Geometry H,Biology,English
+163,English,P.E.,Biology H,Algebra 2,World History
+164,English,Algebra 2,Biology H,P.E.,World History
+165,World History,Biology H,Geometry H,P.E.,English
+166,English,Geometry 9,World History,Biology,P.E.
+167,English,Biology,World History,Algebra 2,P.E.
+168,Biology,Algebra 2H,World History,P.E.,English
+169,Algebra 2H,Biology,World History,P.E.,English
+170,English,Biology H,P.E.,World History,Geometry H
+171,World History,Biology,P.E.,English,Algebra 2
+172,Algebra 2,P.E.,World History,English,Biology
+173,Biology,English,P.E.,World History,Geometry H
+174,World History,English,P.E.,Biology H,Algebra 2
+175,World History,P.E.,English,Biology H,Algebra 2
+176,English,P.E.,Biology,World History,Algebra 2
+177,P.E.,Algebra 2,World History,English,Biology
+178,English,P.E.,Biology,World History,Algebra 2
+179,World History,Algebra 2H,English,P.E.,Biology H
+180,Algebra 2,World History,English,Biology H,P.E.
+181,English,P.E.,Biology,World History,Geometry H
+182,Geometry H,Biology,English,World History,P.E.
+183,Biology H,P.E.,World History,Geometry H,English
+184,Biology H,World History,P.E.,English,Algebra 2
+185,Biology H,World History,P.E.,English,Algebra 2
+186,Algebra 2,World History,English,P.E.,Biology H
+187,P.E.,Algebra 2,English,World History,Biology H
+188,English,Geometry H,P.E.,Biology H,World History
+189,English,World History,P.E.,Biology,Geometry H
+190,Geometry 9,World History,English,Biology H,P.E.
+191,English,Algebra 2,Biology H,World History,P.E.
+192,Biology H,World History,English,Geometry 9,P.E.
+193,English,Biology H,P.E.,Geometry H,World History
+194,World History,P.E.,Biology,English,Algebra 2
+195,English,World History,Biology,P.E.,Algebra 2H
+196,Algebra 2H,World History,English,Biology H,P.E.
+197,English,Biology H,P.E.,Geometry H,World History
+198,World History,P.E.,Biology,Geometry H,English
+199,Biology,World History,Geometry H,P.E.,English
+200,English,Geometry H,P.E.,Biology,World History
+201,Geometry 9,Biology H,English,World History,P.E.
+202,P.E.,Algebra 2,Biology,English,World History
+203,World History,Geometry 9,Biology H,P.E.,English
+204,Geometry 9,English,P.E.,Biology H,World History
+205,P.E.,Algebra 2H,English,World History,Biology H
+206,P.E.,Biology,World History,English,Algebra 2H
+207,English,Biology H,P.E.,World History,Geometry H
+208,English,World History,P.E.,Algebra 2,Biology
+209,Biology,P.E.,English,Algebra 2H,World History
+210,English,P.E.,World History,Biology,Algebra 2H
+211,Biology,World History,Algebra 2,P.E.,English
+212,Biology H,World History,English,Geometry 9,P.E.
+213,English,Biology,Algebra 2H,P.E.,World History
+214,Algebra 2,World History,P.E.,Biology,English
+215,P.E.,Biology,World History,Geometry 9,English
+216,P.E.,English,Biology H,World History,Algebra 2
+217,Biology,World History,English,Algebra 2,P.E.
+218,English,World History,Geometry 9,Biology H,P.E.
+219,World History,English,P.E.,Algebra 2H,Biology H
+220,English,World History,P.E.,Biology,Geometry 9
+221,P.E.,Algebra 2,Biology,English,World History
+222,Algebra 2,World History,P.E.,Biology H,English
+223,Geometry H,English,P.E.,World History,Biology H
+224,Biology H,Geometry 9,World History,P.E.,English
+225,P.E.,English,Geometry 9,Biology H,World History
+226,P.E.,English,Biology,Geometry 9,World History
+227,Algebra 2H,English,P.E.,World History,Biology H
+228,Algebra 2H,P.E.,World History,English,Biology H
+229,English,P.E.,World History,Geometry 9,Biology H
+230,World History,Algebra 2H,Biology H,P.E.,English
+231,Biology,Geometry 9,World History,P.E.,English
+232,Geometry 9,Biology,World History,English,P.E.
+233,English,World History,Algebra 2H,P.E.,Biology H
+234,Algebra 2,P.E.,Biology H,English,World History
+235,English,P.E.,Geometry H,World History,Biology H
+236,World History,English,P.E.,Algebra 2H,Biology H
+237,English,Algebra 2,P.E.,World History,Biology
+238,Geometry H,English,P.E.,World History,Biology
+239,World History,P.E.,Biology,English,Geometry 9
+240,P.E.,English,Biology,Geometry 9,World History
+241,World History,P.E.,Algebra 2H,Biology H,English
+242,Biology H,Algebra 2,P.E.,English,World History
+243,English,Geometry H,Biology H,P.E.,World History
+244,World History,English,Biology H,P.E.,Geometry H
+245,P.E.,English,Algebra 2H,World History,Biology
+246,World History,Geometry 9,Biology,P.E.,English
+247,English,Biology H,P.E.,World History,Geometry 9
+248,English,Geometry 9,P.E.,Biology H,World History
+249,Biology,Geometry 9,P.E.,World History,English
+250,Biology,World History,P.E.,English,Algebra 2
+251,P.E.,Algebra 2H,World History,Biology H,English
+252,World History,Biology,P.E.,English,Geometry 9
+253,World History,English,P.E.,Biology H,Algebra 2H
+254,Biology,English,World History,P.E.,Geometry 9
+255,Geometry H,P.E.,World History,English,Biology H
+256,P.E.,Biology H,Algebra 2H,English,World History
+257,Biology,P.E.,English,Algebra 2H,World History
+258,Biology,World History,Geometry 9,P.E.,English
+259,Biology H,Geometry H,P.E.,English,World History
+260,Geometry 9,English,P.E.,Biology H,World History
+261,English,Geometry 9,P.E.,World History,Biology H
+262,World History,English,Biology H,P.E.,Algebra 2
+263,World History,Biology,Geometry 9,P.E.,English
+264,English,Geometry 9,World History,P.E.,Biology
+265,Biology,World History,English,Geometry H,P.E.
+266,P.E.,Biology H,English,Algebra 2,World History
+267,Algebra 2,World History,Biology H,P.E.,English
+268,P.E.,English,World History,Biology H,Algebra 2H
+269,Geometry H,English,World History,Biology H,P.E.
+270,Biology H,Geometry H,World History,English,P.E.
+271,English,Algebra 2H,World History,Biology,P.E.
+272,Biology,World History,Algebra 2H,P.E.,English
+273,World History,Biology,English,P.E.,Geometry H
+274,World History,Biology H,Geometry H,P.E.,English
+275,P.E.,Biology,World History,Algebra 2,English
+276,English,Geometry 9,Biology,World History,P.E.
+277,P.E.,Algebra 2,English,Biology H,World History
+278,Geometry H,World History,English,Biology H,P.E.
+279,Biology H,P.E.,English,Algebra 2,World History
+280,World History,Biology H,English,P.E.,Algebra 2H
+281,Algebra 2H,Biology,World History,P.E.,English
+282,World History,P.E.,Algebra 2,English,Biology H
+283,Biology H,Geometry H,P.E.,World History,English
+284,Biology,Algebra 2,World History,P.E.,English
+285,P.E.,English,World History,Biology,Algebra 2H
+286,P.E.,World History,English,Biology H,Algebra 2
+287,Biology,P.E.,English,Geometry H,World History
+288,P.E.,Biology,Algebra 2,English,World History
+289,Biology H,Algebra 2,P.E.,English,World History
+290,English,Geometry H,World History,P.E.,Biology H
+291,Algebra 2,Biology,English,P.E.,World History
+292,P.E.,World History,Algebra 2,English,Biology
+293,Geometry H,World History,P.E.,English,Biology
+294,English,P.E.,World History,Algebra 2H,Biology H
+295,English,Algebra 2H,P.E.,Biology H,World History
+296,Algebra 2H,Biology H,World History,P.E.,English
+297,Algebra 2H,Biology H,English,World History,P.E.
+298,Biology H,P.E.,World History,Algebra 2,English
+299,P.E.,World History,English,Biology H,Algebra 2
+300,Biology,Algebra 2H,English,World History,P.E.
+301,English,World History,Biology,Algebra 2H,P.E.
+302,P.E.,English,World History,Biology,Geometry 9
+303,English,Biology H,P.E.,World History,Geometry H
+304,P.E.,Biology H,Algebra 2H,English,World History
+305,World History,P.E.,Biology,English,Geometry 9
+306,P.E.,Biology,World History,Geometry H,English
+307,English,P.E.,Algebra 2H,World History,Biology
+308,Geometry 9,World History,English,P.E.,Biology
+309,English,World History,Geometry H,Biology H,P.E.
+310,English,Algebra 2,Biology,World History,P.E.
+311,P.E.,Algebra 2H,World History,English,Biology
+312,World History,P.E.,English,Biology,Algebra 2
+313,English,P.E.,Algebra 2H,World History,Biology
+314,World History,Biology H,Algebra 2H,P.E.,English
+315,World History,Biology H,P.E.,English,Algebra 2
+316,P.E.,Biology H,English,Geometry 9,World History
+317,Biology,World History,Geometry H,P.E.,English
+318,World History,Algebra 2H,Biology H,P.E.,English
+319,World History,English,P.E.,Algebra 2H,Biology
+320,Algebra 2,Biology H,World History,P.E.,English
+321,World History,P.E.,Biology,English,Geometry 9
+322,P.E.,Biology H,English,World History,Algebra 2
+323,Geometry 9,Biology H,P.E.,English,World History
+324,Biology H,P.E.,Geometry H,English,World History
+325,English,Biology,P.E.,World History,Geometry H
+326,P.E.,Geometry 9,English,Biology H,World History
+327,World History,P.E.,English,Algebra 2,Biology
+328,Biology,English,P.E.,Geometry H,World History
+329,Algebra 2H,English,World History,Biology,P.E.
+330,Biology,P.E.,English,Algebra 2,World History
+331,World History,P.E.,Biology,English,Algebra 2H
+332,English,Algebra 2H,World History,Biology H,P.E.
+333,Biology H,Algebra 2,World History,English,P.E.
+334,English,Algebra 2,P.E.,World History,Biology
+335,Biology,World History,P.E.,Algebra 2H,English
+336,World History,Biology H,English,Algebra 2,P.E.
+337,Geometry H,Biology,P.E.,World History,English
+338,English,World History,Biology,Geometry H,P.E.
+339,Geometry H,Biology H,English,World History,P.E.
+340,World History,Algebra 2,Biology H,English,P.E.
+341,World History,Biology,English,P.E.,Algebra 2
+342,P.E.,English,World History,Biology,Algebra 2
+343,Biology H,P.E.,Algebra 2H,English,World History
+344,Geometry H,Biology,P.E.,English,World History
+345,P.E.,Algebra 2H,World History,Biology H,English
+346,World History,P.E.,Geometry H,English,Biology H
+347,World History,P.E.,English,Algebra 2,Biology
+348,World History,Algebra 2,P.E.,English,Biology H
+349,English,P.E.,Biology H,World History,Algebra 2
+350,World History,P.E.,Algebra 2H,English,Biology H
+351,World History,Biology H,P.E.,Algebra 2,English
+352,World History,P.E.,English,Algebra 2H,Biology H
+353,Biology H,World History,English,P.E.,Algebra 2H
+354,P.E.,English,Biology H,Geometry 9,World History
+355,P.E.,World History,English,Biology H,Algebra 2H
+356,World History,Algebra 2H,P.E.,Biology,English
+357,World History,English,P.E.,Biology,Algebra 2H
+358,World History,P.E.,Geometry H,Biology,English
+359,Algebra 2,World History,English,P.E.,Biology
+360,English,World History,Biology H,P.E.,Algebra 2
+361,World History,Geometry 9,English,P.E.,Biology H
+362,Geometry 9,P.E.,Biology,World History,English
+363,Geometry H,World History,P.E.,English,Biology H
+364,Biology,English,World History,P.E.,Algebra 2H
+365,Algebra 2H,World History,P.E.,English,Biology H
+366,P.E.,Algebra 2,World History,Biology,English
+367,World History,Algebra 2H,P.E.,English,Biology H
+368,English,P.E.,Biology,World History,Geometry H
+369,World History,Biology,P.E.,English,Algebra 2H
+370,World History,P.E.,Biology H,Algebra 2,English
+371,P.E.,Biology H,English,World History,Geometry H
+372,P.E.,Algebra 2H,Biology,English,World History
+373,English,Biology H,World History,P.E.,Algebra 2H
+374,Geometry 9,World History,P.E.,Biology H,English
+375,English,World History,Algebra 2H,Biology H,P.E.
+376,English,Biology,World History,P.E.,Geometry H
+377,English,Geometry 9,Biology,World History,P.E.
+378,P.E.,Biology H,Geometry 9,World History,English
+379,Biology H,English,World History,Algebra 2H,P.E.
+380,World History,English,P.E.,Biology H,Algebra 2
+381,World History,P.E.,Algebra 2H,Biology,English
+382,Algebra 2,World History,English,Biology,P.E.
+383,World History,Biology H,English,P.E.,Algebra 2H
+384,World History,Biology,English,P.E.,Algebra 2H
+385,Biology,English,World History,Algebra 2H,P.E.
+386,P.E.,Biology H,World History,Geometry 9,English
+387,P.E.,Biology,Algebra 2,English,World History
+388,P.E.,Biology,English,World History,Algebra 2
+389,World History,P.E.,Biology,Algebra 2H,English
+390,Biology H,English,World History,P.E.,Algebra 2
+391,Biology,Algebra 2,English,P.E.,World History
+392,Algebra 2,Biology,World History,English,P.E.
+393,Geometry H,Biology H,P.E.,World History,English
+394,P.E.,Geometry H,English,Biology H,World History
+395,Geometry 9,Biology,P.E.,English,World History
+396,Biology,English,P.E.,World History,Geometry H
+397,English,Geometry H,Biology H,P.E.,World History
+398,P.E.,Algebra 2,English,World History,Biology H
+399,Biology H,P.E.,World History,Geometry H,English
+400,English,Algebra 2H,Biology,P.E.,World History
+401,Biology H,Geometry 9,World History,English,P.E.
+402,English,Biology H,Algebra 2H,World History,P.E.
+403,Algebra 2,P.E.,Biology,World History,English
+404,P.E.,English,Biology H,Geometry 9,World History
+405,Biology,English,P.E.,World History,Geometry 9
+406,P.E.,Biology,Geometry H,English,World History
+407,Algebra 2,World History,English,Biology H,P.E.
+408,World History,English,P.E.,Geometry 9,Biology
+409,Biology H,Geometry 9,English,World History,P.E.
+410,World History,P.E.,English,Geometry H,Biology H
+411,English,Biology H,World History,Algebra 2,P.E.
+412,Biology H,Geometry 9,World History,English,P.E.
+413,World History,Geometry H,P.E.,Biology,English
+414,P.E.,Geometry H,English,World History,Biology H
+415,World History,English,Geometry H,P.E.,Biology H
+416,P.E.,Biology,English,World History,Algebra 2H
+417,Biology H,P.E.,Algebra 2H,World History,English
+418,Biology,World History,Geometry H,P.E.,English
+419,Biology H,P.E.,English,World History,Geometry 9
+420,Biology H,Algebra 2H,World History,English,P.E.
+421,P.E.,World History,English,Biology,Algebra 2
+422,World History,Algebra 2H,Biology H,English,P.E.
+423,Biology H,World History,P.E.,Algebra 2,English
+424,English,Biology H,P.E.,World History,Algebra 2H
+425,Biology,English,Algebra 2,P.E.,World History
+426,English,World History,Biology H,Geometry 9,P.E.
+427,English,Biology H,Algebra 2H,P.E.,World History
+428,P.E.,Biology,World History,Algebra 2,English
+429,Algebra 2,Biology H,English,P.E.,World History
+430,English,P.E.,Biology H,World History,Algebra 2
+431,English,World History,P.E.,Biology,Geometry 9
+432,Biology,P.E.,English,Algebra 2H,World History
+433,Geometry H,World History,Biology,P.E.,English
+434,English,Biology,World History,Algebra 2,P.E.
+435,Biology H,P.E.,World History,Geometry 9,English
+436,Algebra 2,English,World History,Biology H,P.E.
+437,Biology H,P.E.,Algebra 2H,World History,English
+438,Geometry H,Biology,World History,P.E.,English
+439,Algebra 2,English,P.E.,World History,Biology H
+440,Geometry 9,Biology H,P.E.,English,World History
+441,Algebra 2,English,World History,P.E.,Biology H
+442,World History,English,P.E.,Biology,Algebra 2H
+443,English,P.E.,Biology H,Algebra 2H,World History
+444,World History,P.E.,English,Biology H,Geometry 9
+445,Algebra 2H,Biology H,P.E.,World History,English
+446,World History,Algebra 2H,P.E.,English,Biology
+447,English,P.E.,Biology,World History,Algebra 2H
+448,English,Algebra 2H,World History,P.E.,Biology
+449,P.E.,Biology,English,Geometry 9,World History
+450,Biology,English,World History,Geometry 9,P.E.
+451,English,Algebra 2H,P.E.,Biology H,World History
+452,Algebra 2,P.E.,English,World History,Biology
+453,World History,Biology,P.E.,Algebra 2H,English
+454,World History,Biology H,English,Algebra 2,P.E.
+455,English,World History,Biology H,Algebra 2H,P.E.
+456,P.E.,Algebra 2,English,World History,Biology H
+457,English,P.E.,Biology,Algebra 2H,World History
+458,World History,English,Biology H,P.E.,Algebra 2
+459,Biology H,English,World History,P.E.,Geometry H
+460,Algebra 2,P.E.,World History,English,Biology H
+461,P.E.,English,Biology,Algebra 2H,World History
+462,English,World History,Biology,Algebra 2,P.E.
+463,Biology,English,World History,P.E.,Algebra 2
+464,English,World History,Biology H,P.E.,Algebra 2
+465,Biology,World History,Geometry 9,P.E.,English
+466,Biology,English,World History,P.E.,Algebra 2
+467,World History,P.E.,English,Algebra 2H,Biology H
+468,English,World History,P.E.,Biology H,Geometry 9
+469,English,World History,Geometry H,Biology,P.E.
+470,P.E.,Biology,Algebra 2,World History,English
+471,Biology,English,P.E.,World History,Geometry 9
+472,Biology,World History,Algebra 2H,P.E.,English
+473,P.E.,World History,Biology H,Algebra 2,English
+474,English,Algebra 2,P.E.,Biology H,World History
+475,Algebra 2,Biology H,English,P.E.,World History
+476,P.E.,Geometry H,English,World History,Biology
+477,English,Biology H,P.E.,Geometry 9,World History
+478,P.E.,World History,English,Algebra 2,Biology
+479,P.E.,Geometry H,Biology,World History,English
+480,English,Biology,Algebra 2H,World History,P.E.
+481,World History,P.E.,Biology H,Geometry 9,English
+482,Biology,English,Algebra 2,P.E.,World History
+483,World History,English,P.E.,Biology H,Algebra 2
+484,World History,Biology H,Algebra 2,P.E.,English
+485,Biology H,English,P.E.,World History,Geometry 9
+486,World History,English,P.E.,Algebra 2H,Biology H
+487,Geometry 9,Biology,P.E.,World History,English
+488,Biology H,Geometry 9,English,World History,P.E.
+489,World History,Biology,English,P.E.,Geometry 9
+490,P.E.,World History,English,Geometry H,Biology H
+491,P.E.,English,Geometry 9,World History,Biology
+492,World History,Biology H,P.E.,English,Algebra 2
+493,World History,English,Biology,P.E.,Algebra 2
+494,Biology H,Algebra 2,English,P.E.,World History
+495,World History,P.E.,Biology H,English,Algebra 2
+496,P.E.,English,Geometry 9,World History,Biology H
+497,Geometry 9,English,P.E.,Biology H,World History
+498,World History,Geometry H,English,P.E.,Biology
+499,P.E.,World History,Biology,Geometry 9,English
+500,Algebra 2,Biology H,English,P.E.,World History
+501,World History,English,Geometry H,P.E.,Biology H
+502,English,Biology,World History,Algebra 2,P.E.
+503,Biology,P.E.,World History,Algebra 2,English
+504,P.E.,Biology H,English,Algebra 2H,World History
+505,Geometry H,P.E.,English,World History,Biology
+506,P.E.,English,World History,Biology H,Algebra 2H
+507,Biology H,English,World History,P.E.,Geometry H
+508,Algebra 2,Biology,World History,English,P.E.
+509,Biology H,Algebra 2,World History,P.E.,English
+510,Biology H,English,World History,P.E.,Geometry H
+511,Biology H,P.E.,World History,English,Geometry 9
+512,P.E.,Geometry 9,Biology H,English,World History
+513,Algebra 2H,English,Biology H,World History,P.E.
+514,P.E.,English,World History,Biology H,Algebra 2
+515,P.E.,Algebra 2,World History,English,Biology H
+516,Biology H,Algebra 2,P.E.,English,World History
+517,P.E.,Biology,Geometry H,English,World History
+518,World History,P.E.,Biology H,Geometry 9,English
+519,P.E.,World History,Biology H,Geometry 9,English
+520,Algebra 2,World History,Biology,English,P.E.
+521,English,P.E.,Geometry H,Biology H,World History
+522,Algebra 2,English,P.E.,Biology,World History
+523,Biology,World History,English,Geometry 9,P.E.
+524,Biology,P.E.,Algebra 2H,English,World History
+525,Biology,P.E.,English,World History,Geometry H
+526,World History,Algebra 2,Biology H,English,P.E.
+527,Biology,Geometry H,P.E.,English,World History
+528,Biology H,Geometry 9,P.E.,World History,English
+529,Geometry 9,P.E.,World History,English,Biology H
+530,Geometry H,World History,Biology,English,P.E.
+531,World History,P.E.,English,Geometry H,Biology
+532,Biology H,World History,English,P.E.,Algebra 2
+533,World History,English,Biology H,Algebra 2,P.E.
+534,English,Geometry 9,Biology,World History,P.E.
+535,Biology H,Geometry H,English,World History,P.E.
+536,English,P.E.,Biology,Geometry H,World History
+537,English,World History,P.E.,Biology H,Algebra 2
+538,English,Biology,World History,P.E.,Algebra 2H
+539,P.E.,World History,Algebra 2,English,Biology H
+540,Biology H,Geometry 9,English,World History,P.E.
+541,World History,English,P.E.,Biology,Geometry H
+542,World History,Geometry H,Biology,P.E.,English
+543,World History,Biology H,English,Algebra 2H,P.E.
+544,P.E.,Geometry 9,English,Biology H,World History
+545,Algebra 2H,English,P.E.,Biology,World History
+546,Biology H,P.E.,World History,English,Algebra 2H
+547,Algebra 2H,Biology H,P.E.,English,World History
+548,Algebra 2H,Biology H,World History,English,P.E.
+549,Geometry H,English,Biology H,P.E.,World History
+550,P.E.,Algebra 2,English,Biology,World History
+551,Biology,English,Geometry 9,P.E.,World History
+552,Biology H,Algebra 2H,World History,English,P.E.
+553,Algebra 2,P.E.,English,Biology,World History
